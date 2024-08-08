@@ -16,8 +16,17 @@
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 ### Ubícame en
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marilynsaravia)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goitiasaraviamarilyn@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marilynsaravia)
-[![CodePen](https://img.shields.io/badge/Codepen-FF69B4?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/marilynsaravia)
+<a href="https://www.linkedin.com/in/marilynsaravia" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:goitiasaraviamarilyn@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://github.com/marilynsaravia" target="_blank">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://codepen.io/marilynsaravia" target="_blank">
+  <img src="https://img.shields.io/badge/Codepen-FF69B4?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
+</a>
+
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31ywehgx2z63mxs4fcwubt4szn7a?si=BDZcX0hgTYCMIUhTDghkQg)
