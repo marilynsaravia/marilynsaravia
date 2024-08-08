@@ -28,5 +28,7 @@
 <a href="https://codepen.io/marilynsaravia" target="_blank">
   <img src="https://img.shields.io/badge/Codepen-FF69B4?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
 </a>
+<a href="https://open.spotify.com/user/31ywehgx2z63mxs4fcwubt4szn7a?si=BDZcX0hgTYCMIUhTDghkQg" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+</a>
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31ywehgx2z63mxs4fcwubt4szn7a?si=BDZcX0hgTYCMIUhTDghkQg)
