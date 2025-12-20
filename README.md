@@ -1,6 +1,6 @@
 # 👋 ¡Hi, Welcome!
 
- #### I'm Marilyn, a recently graduated Web Application Developer. Here you can find information about the technologies I use and how to contact me.
+ #### I'm Marilyn, a Frontend Developer focused on building clean and functional web interfaces. Here you can find my projects, the technologies I work with, and how to contact me.
 
 ### Technologies
 
