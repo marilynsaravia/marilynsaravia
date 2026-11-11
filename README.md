@@ -1,44 +1,46 @@
-# 👋 ¡Hi, Welcome!
+# CURRICULUM VITAE
 
- #### I'm Marilyn, a Frontend Developer focused on building clean and functional web interfaces. Here you can find my projects, the technologies I work with, and how to contact me.
+Marilyn Saravia Goitia
 
-### Technologies
+Madrid, España
 
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-[![JavaScript](https://img.shields.io/badge/javascript-%23232323.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://img.shields.io/badge/javascript-%23232323.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-[![React](https://img.shields.io/badge/react-%23232323.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://img.shields.io/badge/react-%23232323.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NextJs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-[![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+[LinkedIn](https://linkedin.com/marilynsaravia) | [Github](https://wwww.github.com/marilynsaravia) | [Portfolio](https://www.marilynsaravia.com)
+## Perfil
+
+**Desarrolladora Frontend** con formación superior en Desarrollo de Aplicaciones Web **transitando a Fullstack con .NET.** 
+
+## Experiencia
+
+ **Front-end Developer** - *CloudSolute con AdoptaUnJunior*						2024 - 2024
+
+- **Desarrollo Frontend:** Participación en el diseño e implementación de interfaces web responsivas utilizando Next.js y TypeScript, garantizando un código robusto, escalable y fácil de mantener. 
+
+- **​Sistemas de Diseño:** Uso de Tailwind CSS para optimizar la arquitectura de estilos, mejorando la coherencia visual y la eficiencia del desarrollo UI. 
+
+- **​Colaboración UI/UX:** Cooperación estrecha con el equipo de diseño para elevar la experiencia de usuario (UX) y optimizar la usabilidad general del producto. 
+
+**Web Developer** - *Sucre Obras y Servicios*			2024 - 2024
+
+- **Desarrollo End-to-End:** Gestión del ciclo completo de vida de un sitio web corporativo (planificación, diseño, maquetación y despliegue) implementando HTML, CSS, JavaScript y PHP. 
+
+- **Optimización y Adaptabilidad:** Aplicación de estrategias de optimización de rendimiento técnico y aseguramiento de la compatibilidad cross-browser, logrando una navegación fluida en todo tipo de dispositivos. 
+
+- **Gestión Autónoma:** Liderazgo del proyecto de forma independiente, demostrando una alta capacidad de organización y consolidación de competencias mediante el aprendizaje autodidacta. 
+
+**Backend Developer Intern** - *Adentia (Advanced Enterprise Internet Act)*			2024 - 2024
+
+- **​Manipulación de Datos:** Diseño y ejecución de consultas SQL avanzadas y tareas de manipulación de datos en entornos de prueba, garantizando la integridad de la información. 
+
+- **Desarrollo Full-Stack:** Colaboración en el ecosistema técnico del proyecto utilizando C#, jQuery y Angular, expandiendo la lógica de negocio y reforzando la arquitectura backend. 
+
+- **Calidad de Código:** Implementación de buenas prácticas y estándares de programación, mostrando una rápida adaptación a nuevas tecnologías y metodologías de desarrollo. 
 
 
-### Exploring New Technologies 
+## Estudios
+- **Especialización en Fullstack Web Development (C# & .NET Core)**  		         2026 - Presente 	
+ 
+ - **Técnico Superior en Desarrollo de Aplicaciones** 				2022 - 2024
 
+## Idiomas
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-### Join
-<a href="https://www.linkedin.com/in/marilynsaravia" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:goitiasaraviamarilyn@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://github.com/marilynsaravia" target="_blank">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://codepen.io/marilynsaravia" target="_blank">
-  <img src="https://img.shields.io/badge/Codepen-FF69B4?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
-</a>
-<a href="https://open.spotify.com/user/31ywehgx2z63mxs4fcwubt4szn7a?si=BDZcX0hgTYCMIUhTDghkQg" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
-</a>
-
+- Inglés B1
