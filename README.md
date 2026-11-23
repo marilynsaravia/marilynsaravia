@@ -1,11 +1,24 @@
-# 👋 ¡Hi, Welcome! 
-#### I'm Marilyn, a Frontend Developer focused on building clean and functional web interfaces. Here you can find my projects, the technologies I work with, and how to contact me.
+# 😊 ¡Hi, Welcome! 
+#### Full Stack Developer Junior focused on building clean, functional, and well-structured web applications—connecting thoughtful user interfaces with solid backend logic and relational databases.
+
+Currently deepening my **C# & .NET** stack through specialized Full Stack training in Madrid, alongside my experience in **JavaScript/TypeScript** and **PHP**.
 
 ### Technologies
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)[![JavaScript](https://img.shields.io/badge/javascript-%23232323.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://img.shields.io/badge/javascript-%23232323.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)[![React](https://img.shields.io/badge/react-%23232323.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://img.shields.io/badge/react-%23232323.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![NextJs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)[![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23232323.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%23232323.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Exploring New Technologies 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+### Exploring New Technologies
+![C#](https://img.shields.io/badge/c%23-%B26CFF.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-705EFF?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Join
-<a href="https://www.linkedin.com/in/marilynsaravia" target="_blank">  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="mailto:goitiasaraviamarilyn@gmail.com" target="_blank">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a><a href="https://github.com/marilynsaravia" target="_blank">  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a><a href="https://codepen.io/marilynsaravia" target="_blank">  <img src="https://img.shields.io/badge/Codepen-FF69B4?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a><a href="https://open.spotify.com/user/31ywehgx2z63mxs4fcwubt4szn7a?si=BDZcX0hgTYCMIUhTDghkQg" target="_blank">  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+### Connect
+<a href="https://marilynsaravia.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/marilynsaravia" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:goitiasaraviamarilyn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://github.com/marilynsaravia" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
